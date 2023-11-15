@@ -10,6 +10,11 @@
 
 # production
 /build
+/testwegastudios.com-ssl
+/gatsby_version
+*.htaccess
+*build.zip
+*dns_stuff.txt
 
 # misc
 .DS_Store
